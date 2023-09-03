@@ -1,0 +1,14 @@
+# basic packages
+pandas
+numpy
+streamlit
+
+# visualization
+matplotlib
+plotly
+seaborn
+watchdog
+
+# data processing
+xarray
+h5netcdf
