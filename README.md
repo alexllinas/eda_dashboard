@@ -21,8 +21,8 @@ An interactive dashboard for automated Exploratory Data Analysis (EDA) using Str
 
 3. Set up a virtual environment using Conda and activate it (optional but recommended):
 
-```conda create --name eda_dashboard python=3.10
-conda activate eda_dashboard```
+```conda create --name eda_dashboard python=3.10```
+```conda activate eda_dashboard```
 
 
 4. Install the required packages:
